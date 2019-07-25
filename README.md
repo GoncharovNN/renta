@@ -1,2 +1,0 @@
-# renta
-1Crenta
