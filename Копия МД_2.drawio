@@ -1,0 +1,79 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36" version="26.0.16">
+  <diagram name="Страница — 1" id="_nDFyvIsgMH9S5q8znej">
+    <mxGraphModel dx="1543" dy="-402" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="sSabx54134zapQLorHbL-86" value="" style="endArrow=open;startArrow=none;endFill=0;startFill=0;endSize=8;html=1;verticalAlign=bottom;labelBackgroundColor=none;strokeWidth=1;rounded=0;strokeColor=light-dark(#000000,#FFFFFF);" parent="1" edge="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="260" y="1670" as="sourcePoint" />
+            <mxPoint x="550" y="1670" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sSabx54134zapQLorHbL-87" value="" style="endArrow=open;startArrow=none;endFill=0;startFill=0;endSize=8;html=1;verticalAlign=bottom;labelBackgroundColor=none;strokeWidth=1;rounded=0;strokeColor=light-dark(#000000,#FFFFFF);" parent="1" edge="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="260" y="1710" as="sourcePoint" />
+            <mxPoint x="550" y="1710" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sSabx54134zapQLorHbL-88" value="" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=#FFCCCC;strokeColor=light-dark(#000000,#FFFFFF);" parent="sSabx54134zapQLorHbL-87" vertex="1" connectable="0">
+          <mxGeometry x="0.3199" relative="1" as="geometry">
+            <mxPoint x="-35" y="-10" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sSabx54134zapQLorHbL-89" value="" style="endArrow=open;startArrow=none;endFill=0;startFill=0;endSize=8;html=1;verticalAlign=bottom;labelBackgroundColor=none;strokeWidth=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="259" y="1832" as="sourcePoint" />
+            <mxPoint x="549" y="1832" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sSabx54134zapQLorHbL-90" value="&lt;span style=&quot;background-color: rgb(255, 255, 255);&quot;&gt;Состояние &quot;Согласовано&quot;&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=#FFCCCC;" parent="sSabx54134zapQLorHbL-89" vertex="1" connectable="0">
+          <mxGeometry x="0.3199" relative="1" as="geometry">
+            <mxPoint x="-35" y="-10" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sSabx54134zapQLorHbL-91" value="" style="endArrow=open;startArrow=none;endFill=0;startFill=0;endSize=8;html=1;verticalAlign=bottom;labelBackgroundColor=none;strokeWidth=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="260" y="1870" as="sourcePoint" />
+            <mxPoint x="550" y="1870" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sSabx54134zapQLorHbL-92" value="ЗабратьРоли()" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="sSabx54134zapQLorHbL-91" vertex="1" connectable="0">
+          <mxGeometry x="0.3199" relative="1" as="geometry">
+            <mxPoint x="-35" y="-10" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sSabx54134zapQLorHbL-93" value="Состояние &quot;Согласовано&quot;" style="endArrow=open;startArrow=none;endFill=0;startFill=0;endSize=8;html=1;verticalAlign=bottom;dashed=1;labelBackgroundColor=none;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="549" y="1746" as="sourcePoint" />
+            <mxPoint x="259" y="1746" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sSabx54134zapQLorHbL-94" value="Состояние &quot;Отказ&quot;" style="endArrow=open;startArrow=none;endFill=0;startFill=0;endSize=8;html=1;verticalAlign=bottom;dashed=1;labelBackgroundColor=none;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="549" y="1786" as="sourcePoint" />
+            <mxPoint x="259" y="1786" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sSabx54134zapQLorHbL-95" value="&lt;b&gt;Пользователь&lt;/b&gt;" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="1" vertex="1">
+          <mxGeometry x="210" y="1580" width="100" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="sSabx54134zapQLorHbL-96" value="SYSTEM" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="499" y="1583" width="100" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="sSabx54134zapQLorHbL-97" value="" style="endArrow=open;startArrow=none;endFill=0;startFill=0;endSize=8;html=1;verticalAlign=bottom;labelBackgroundColor=none;strokeWidth=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="260" y="1870" as="sourcePoint" />
+            <mxPoint x="550" y="1870" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sSabx54134zapQLorHbL-98" value="ВыбратьРоли()" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="361" y="1642" width="102" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="sSabx54134zapQLorHbL-99" value="ОтправитьНаСогласование()" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="323" y="1685" width="180" height="26" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
